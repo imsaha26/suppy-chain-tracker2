@@ -1,7 +1,4 @@
 # Supply Chain Tracker (Soroban Smart Contract on Stellar)
-<img width="1919" height="1079" alt="Screenshot 2026-03-20 152446" src="https://github.com/user-attachments/assets/61b8c0b2-2843-405e-b285-7e1a276dd75e" />
-
-<img width="1916" height="968" alt="Screenshot 2026-03-20 152624" src="https://github.com/user-attachments/assets/f2397594-cdae-4bbf-a587-dfcaa3cc9dd6" />
 
 
 ## 📌 Project Description
@@ -34,6 +31,8 @@ This project helps businesses ensure authenticity, reduce fraud, and improve tra
 
 <img width="1919" height="1079" alt="Screenshot 2026-03-20 152446" src="https://github.com/user-attachments/assets/61b8c0b2-2843-405e-b285-7e1a276dd75e" />
 
+---
+
 ## 🔗 Deployed Smart Contract Link
 
 Supply Chain Tracker: https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CDJVMAX34YRCQ5JFC6SIOQOVSUY6XWEFYJOLF3SBCKU7CMI3IAP6HPWN;;
@@ -48,6 +47,12 @@ Contract Address : CDJVMAX34YRCQ5JFC6SIOQOVSUY6XWEFYJOLF3SBCKU7CMIЗІАP6HPWN
 2. Call `create_product` to register a new item
 3. Use `update_status` to track movement and ownership
 4. Fetch details using `get_product`
+
+---
+
+## 📸 Screenshot of the UI
+
+<img width="1916" height="968" alt="Screenshot 2026-03-20 152624" src="https://github.com/user-attachments/assets/f2397594-cdae-4bbf-a587-dfcaa3cc9dd6" />
 
 ---
 
@@ -70,3 +75,6 @@ Feel free to fork this project and improve it further.
 
 This project is open-source and available under the MIT License.
 # Supply_Chain_Tracker-full
+
+## 📬 Contact
+Shubhajeet Saha
