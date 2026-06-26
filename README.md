@@ -30,6 +30,9 @@ This project helps businesses ensure authenticity, reduce fraud, and improve tra
 * 🔐 Tamper-proof blockchain storage
 
 ---
+## 🚀 Supply Chain Tracker
+
+<img width="1919" height="1079" alt="Screenshot 2026-03-20 152446" src="https://github.com/user-attachments/assets/61b8c0b2-2843-405e-b285-7e1a276dd75e" />
 
 ## 🔗 Deployed Smart Contract Link
 
